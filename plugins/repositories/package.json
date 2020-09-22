@@ -1,0 +1,28 @@
+{
+  "name": "github-repositories",
+  "version": "1.0.0",
+  "description": "A list of my repositories in Github.",
+  "strapi": {
+    "name": "Repositories",
+    "icon": "code",
+    "description": "A list of my repositories in Github."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Anderson Rodrigues",
+    "email": "anddersonrds@gmail.com",
+    "url": "https://github.com/anddersonrds"
+  },
+  "maintainers": [
+    {
+      "name": "Anderson Rodrigues",
+      "email": "anddersonrds@gmail.com",
+      "url": "https://github.com/anddersonrds"
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
